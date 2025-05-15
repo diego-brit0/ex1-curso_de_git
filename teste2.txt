@@ -1,0 +1,4 @@
+comandos git apreendido hoje(15/05/2025)
+git init - Inicia um stage de projeto git
+git status - Verifica os estados dos arquivos dentro da stage
+git add [...] - Adiciona o arquivo na stage, [...] = nome do arquivo modificado ou tambem pode se usar o "." para adicionar todos os arquivos

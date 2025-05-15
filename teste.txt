@@ -1,0 +1,2 @@
+Comando para criar arquivo no terminal do windows "copy con [nome-do-arquivo].[extensao]"
+
