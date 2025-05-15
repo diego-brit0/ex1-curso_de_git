@@ -1,0 +1,2 @@
+git remote add [1...] [2...] <= [1...] referencia a o nome do remote que voce esta criando o padrao utilizado e origin, porem fica a escolha do usuario poder colocar github ou etc; [2...] referencia a url de acesso do seu repositorio no github; com este comando voce vincula sua parta de sua maquina e todas as alteracoes que sao realizada nesse stage aos arquivos que estao vinculados ao repositorio da WEB no git hub. 
+git remote -v <= comando para verificar os repositorios que estao vinculados ao seus arquivos na maquina
