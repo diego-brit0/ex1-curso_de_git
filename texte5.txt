@@ -1,0 +1,2 @@
+git push  <= realiza o envio do seu stage maquina para o servidor do git, sendo o do servidor o novo ponto de acesso da ultima versao do seu projeto.
+git push -f <= forca com que o processo de push acontece, sendo substituido tudo aquilo do servidor para aquilo que esta no stage da sua maquina.
