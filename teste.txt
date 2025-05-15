@@ -1,2 +1,3 @@
 Comando para criar arquivo no terminal do windows "copy con [nome-do-arquivo].[extensao]"
 
+Editando o arquivo para poder realizar o push no usuario maquina
